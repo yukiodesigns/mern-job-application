@@ -1,6 +1,4 @@
-Certainly! Below is a README for your project that explains the setup, how to run the project, and some other useful information.
 
----
 
 # Job Portal MERN Stack Project
 
